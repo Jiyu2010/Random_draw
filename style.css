@@ -1,0 +1,16 @@
+body
+{
+	text-align: center;
+	font-family: cursive;
+	background-color: powderblue;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: plum;
+	border-radius: 20px;
+}
